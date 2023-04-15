@@ -1,0 +1,5 @@
+rootProject.name = 'event-sourcing'
+include 'manager'
+include 'report'
+include 'common'
+include 'turnstile'
